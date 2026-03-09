@@ -10,6 +10,8 @@ A base utilizada contém informações contratuais, financeiras e demográficas 
 O foco desta etapa é desenvolver e avaliar modelos de Machine Learning capazes de prever com precisão o churn.
 A análise busca identificar variáveis críticas — como tipo de contrato, tempo de permanência e serviços adicionais — que funcionam como gatilhos de evasão, permitindo ações preventivas e direcionadas.
 
+Link do Colab: https://colab.research.google.com/drive/1i-AUVCAnA7n2yq1fBk0UXNWTtC-KHMwn?usp=sharing
+
 📂 Estrutura
 README.md → Documentação do projeto
 
